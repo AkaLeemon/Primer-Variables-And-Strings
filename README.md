@@ -19,10 +19,10 @@ This workshop includes:
 ### 2️⃣ Complete the JavaScript Challenge  
 After finishing FreeCodeCamp, you’ll apply your knowledge in a **coding challenge**:  
 
-- [ ] **Fork this repository**  
-- [ ] **Download it using GitHub Desktop**  
-- [ ] **Open the repo in VS Code**  
-- [ ] **Read through all files (README + JavaScript files)**  
+- [*] **Fork this repository**  
+- [*] **Download it using GitHub Desktop**  
+- [*] **Open the repo in VS Code**  
+- [*] **Read through all files (README + JavaScript files)**  
 - [ ] **Install dependencies** (you’ll be using JavaScript & testing tools)  
 - [ ] **Modify `variablesAndStringsChallenge.js` to complete the tasks**  
 - [ ] **Run tests using `npm run test`** to check your answers  

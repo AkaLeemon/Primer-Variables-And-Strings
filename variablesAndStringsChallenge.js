@@ -26,3 +26,16 @@
 
 // Export variables for testing (Do not edit this)
 module.exports = { myName, greeting, greetingLength, favoriteFood, foodSentence, uppercaseGreeting, lowercaseFoodSentence };
+
+const myName = "Liam Waymouth"
+const greeting = "Hello, my name is " + myName + "."
+int length = this.greetingLength()
+console.log(greeting)
+
+const favoriteFood = "Egg Foo Young"
+console.log("My favourite food is " + favoriteFood + " it's scrumdiddily-yumshious")
+
+const uppercaseGreeting = greeting.toLocaleUpperCase()
+const lowercaseFoodSentence = this.foodSentence.lowercaseFoodSentence()
+
+console.log(myName + favoriteFood)
