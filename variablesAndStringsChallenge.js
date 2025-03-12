@@ -29,7 +29,7 @@ module.exports = { myName, greeting, greetingLength, favoriteFood, foodSentence,
 
 const myName = "Liam Waymouth"
 const greeting = "Hello, my name is " + myName + "."
-int length = this.greetingLength()
+const greetingLength = this.greetingLength()
 console.log(greeting)
 
 const favoriteFood = "Egg Foo Young"
